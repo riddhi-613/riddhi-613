@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhi-613&label=Profile%20views&color=0e75b6&style=flat" alt="riddhi-613" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-613" alt="riddhi-613" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://startling-sable-3d1089.netlify.app/](https://startling-sable-3d1089.netlify.app/)
 
